@@ -1,8 +1,7 @@
 {
-  "name": "@nestjsg/graphql-filter",
+  "name": "nest-gql-filter",
   "version": "1.0.8",
   "description": "GraphQL tools for Nest framework that gives a set of decorators and pipe transforms for make filtering, ordering, pagination and selection inputs easily for use with a ORM.",
-  "author": "Giuliano Marinelli",
   "license": "MIT",
   "main": "dist/index",
   "files": [
@@ -17,7 +16,7 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "rxjs": "^7.8.1",
-    "ts-morph": "^20.0.0"
+    "ts-morph": "^22.0.0"
   },
   "devDependencies": {
     "@nestjs/common": "^10.0.0",
@@ -38,9 +37,9 @@
     "graphql": ">=16.8.1",
     "typeorm": ">=0.3.20"
   },
-  "homepage": "https://github.com/giuliano-marinelli/nestjs-graphql-filter#readme",
+  "homepage": "https://github.com/sazon-off/nestjs-gql-filter#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/giuliano-marinelli/nestjs-graphql-filter"
+    "url": "https://github.com/sazon-off/nestjs-gql-filter"
   }
 }
